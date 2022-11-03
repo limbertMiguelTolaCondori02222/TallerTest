@@ -1,0 +1,24 @@
+las bolivianos no deben sobrepasar 8 caracteres (entre numero, letras y simbolos permitidos: espacio o guion)
+#Limbert Miguel Tola Condori
+int(input("ingrese las placas por teclados"))
+class placa:
+     #Numero:
+     #letras:
+     #Simbolo:
+     #placas:
+     class Valido:
+        for i in range("Placa validos"):
+
+         for i in range("mostra los numeos de las placas de los autos"):
+          list in(input(""))
+     #placa validos
+     #placa validos
+     #placa invalidos
+     #placa validos
+     #placa validos
+
+print("Ingrese los numeros iniciales")
+print("Ingrese los digitos ")
+
+
+
